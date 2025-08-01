@@ -9,6 +9,7 @@ public class Game {
 	}
 
 	public int score() {
+		/*test commit branche*/
 		int sum = 0;
 		int rollsIndex = 0;
 
